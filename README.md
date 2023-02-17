@@ -1,4 +1,4 @@
-# opentypejs-reports
+# [opentypejs-reports](https://github.com/Connum/opentypejs-reports)
 [Opentype.js](https://github.com/opentypejs/opentype.js) test reports generated with [icu-project/text-rendering-tests](https://github.com/unicode-org/text-rendering-tests)
 
 ## Test Reports
