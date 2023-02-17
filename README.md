@@ -15,3 +15,4 @@ python check.py --engine=OpenType.js --output=reports/master-{commit-hash}.html
 * [1.3.4](https://connum.github.io/opentypejs-reports/reports/1.3.4.html)
 
 ### Master
+* [f6b7548](https://connum.github.io/opentypejs-reports/reports/master-f6b7548809635ab05ac2a046579922bf3bca6a97.html)
