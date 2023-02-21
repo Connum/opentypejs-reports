@@ -23,3 +23,4 @@ And for couting the passed/failed tests, run this in the Chromium dev console:
 
 ### Test/WIP
 * [Connum/opentype.js:optimize-svg#099bc17](https://connum.github.io/opentypejs-reports/reports/test-connum_svg-optimize-099bc17ecfe9030edcd1530b2792063cb7981c56.html) (passing: 56, failing: 689)
+* [Connum/opentype.js:optimize-svg#7e4de2c](https://connum.github.io/opentypejs-reports/reports/test-connum_svg-optimize-7e4de2c2ce9e822161b61349cf2a7ec55c7fd05e.html) (passing: 69, failing: 676)
