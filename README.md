@@ -11,7 +11,7 @@ python check.py --engine=OpenType.js --output=reports/master-{commit-hash}.html
 ```
 And for couting the passed/failed tests, run this in the Chromium dev console:
 ```js
-`(passing: ${$$('.conformance-pass').length}, failing: ${$$('.conformance-fail').length}`
+`(passing: ${$$('.conformance-pass').length}, failing: ${$$('.conformance-fail').length})`
 ```
 
 ### Releases
